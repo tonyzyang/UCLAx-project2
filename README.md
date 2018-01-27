@@ -2,7 +2,7 @@
 
 the domain of the problem <br />
 1 **describe the real-world source of the dataset** <br />
-## The Adult Mechine learning data set from the UCI data base is to predict the future income is over 50k or not <br />
+The Adult Mechine learning data set from the UCI data base is to predict the future income is over 50k or not <br />
 
 **some kind of literature review is always a plus i.e. answer the question, "How has data science or machine learning been used to solve this or similar problems in the past?"**<br />
 it used the training set and test set method to train the data 
