@@ -30,7 +30,7 @@ non-numorical data, character vector <br />
 
 **summary statistics of the data** <br />
 ![My image](https://github.com/tonyzyang/UCLAx-project2/blob/readme/Screen%20Shot%202018-01-27%20at%2010.43.04%20AM.png)
-![My image](https://github.com/tonyzyang/UCLAx-project2/blob/master/Screen%20Shot%202018-01-27%20at%204.56.15%20AM.png)
+![My image](https://github.com/tonyzyang/UCLAx-project2/blob/readme/Screen%20Shot%202018-01-27%20at%2010.43.25%20AM.png)
 
 
 
