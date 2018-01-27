@@ -22,7 +22,7 @@ income prediction
 
 **a description of the dataset including:<br />
 the size of the dataset both in terms of rows and columns, but also in memory**<br />
-32560rows 15columns, <br />
+32560rows 15columns, 1572720 bytes<br />
 
 
 **the types of the data** <br />
