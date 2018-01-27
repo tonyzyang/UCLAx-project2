@@ -35,7 +35,7 @@ non-numorical data, character vector <br />
 
 
 **Result** <br />
-![My image](https://github.com/tonyzyang/UCLAx-project2/blob/master/Screen%20Shot%202018-01-27%20at%205.21.00%20AM.png)
+![My image](https://github.com/tonyzyang/UCLAx-project2/blob/readme/Screen%20Shot%202018-01-27%20at%205.21.00%20AM.png)
 
 
 
